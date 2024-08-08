@@ -1,5 +1,4 @@
-// Task 4: Implement an Interface with Multiple Classes
-
+//task 4
 abstract class Basic {
   String toJson();
 }
