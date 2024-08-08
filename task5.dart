@@ -1,4 +1,4 @@
-// Task 5: Exception Handling in Class Methods
+// Task 5
 
 class CustomException implements Exception {
   final String message;
